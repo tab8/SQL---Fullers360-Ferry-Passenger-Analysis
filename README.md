@@ -59,6 +59,7 @@ Monthly passenger trend
 Three-table JOIN with occupancy percentage
 
 
+
 **Tools Used**
 
 
@@ -68,9 +69,10 @@ MySQL 8.0
 MySQL Workbench
 
 
+
 **How to Run**
 Open `fullers360_mysql.sql` in MySQL Workbench
-Execute the full script — creates database, tables, and inserts data
+Execute the full script - creates database, tables, and inserts data
 Run the verification queries at the bottom to confirm
 
 🙋Created by: Mark Thomas Bundang | March 2026
