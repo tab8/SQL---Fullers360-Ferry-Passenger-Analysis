@@ -24,19 +24,19 @@ A relational MySQL database modelling a fictional ferry passenger operation, des
 
 **Key Features**
 
-- Primary & Foreign Keys — referential integrity across all tables
+- Primary & Foreign Keys - referential integrity across all tables
 
 
-- CHECK Constraints — enforcing valid vessel types, seasons, and passenger counts
+- CHECK Constraints - enforcing valid vessel types, seasons, and passenger counts
 
 
-- UNIQUE Constraints — preventing duplicate route names, vessel names, and daily records
+- UNIQUE Constraints - preventing duplicate route names, vessel names, and daily records
 
 
-- Soft Deletes — `is_active` flag preserves historical data without hard deleting records
+- Soft Deletes - `is_active` flag preserves historical data without hard deleting records
 
 
-- Indexes — on commonly queried columns for query performance-
+- Indexes - on commonly queried columns for query performance-
 
 
 **Analysis Queries Included**
