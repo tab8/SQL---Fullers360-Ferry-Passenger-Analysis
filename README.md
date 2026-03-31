@@ -7,7 +7,7 @@
 
 &ensp;
 &ensp;
-**Overview**
+📌 **Overview**
 A relational MySQL database modelling a fictional ferry passenger operation, designed to demonstrate practical SQL skills including schema design, constraints, relationships, and analytical querying.
 
 
