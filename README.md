@@ -82,4 +82,5 @@ A relational MySQL database modelling a fictional ferry passenger operation, des
 - Execute the full script - creates database, tables, and inserts data
 - Run the verification queries at the bottom to confirm
 
+<br>
 🙋Created by: Mark Thomas Bundang | March 2026
