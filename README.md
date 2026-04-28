@@ -5,22 +5,10 @@
 >***DISCLAIMER***: All data is fictional and generated for portfolio/demonstration purposes only. Not affiliated with or representative of Fullers360 or any real entity.
 
 
-&ensp;
-&ensp;
-📌 **Overview**
+## Overview
 A relational MySQL database modelling a fictional ferry passenger operation, designed to demonstrate practical SQL skills including schema design, constraints, relationships, and analytical querying.
 
-
-&ensp;
-**Relationships**
-
-
-- passenger_records` → `routes` (Many-to-One via `route_id`)
-
-
-- passenger_records` → `vessels` (Many-to-One via `vessel_id`)
-
-
+<br>
 
 **Key Features**
 
@@ -38,6 +26,7 @@ A relational MySQL database modelling a fictional ferry passenger operation, des
 
 - Indexes - on commonly queried columns for query performance-
 
+<br>
 
 **Analysis Queries Included**
 
@@ -64,20 +53,14 @@ A relational MySQL database modelling a fictional ferry passenger operation, des
 
 
 
+<br>
+
 **Tools Used**
-
-
 - MySQL 8.0
-
-
 - MySQL Workbench
-
-
 
 > [!TIP]
 >**How to Run**
-
-
 - Open `fullers360_mysql.sql` in MySQL Workbench
 - Execute the full script - creates database, tables, and inserts data
 - Run the verification queries at the bottom to confirm
